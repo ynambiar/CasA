@@ -1,7 +1,8 @@
 # CasA
 
 "Spatio-temporal Variation in Cassiopeia A"
-Nambiar, Y., Kashyap, V., & Patnaude, D., 2014, BAAS 223, 353.04
+
+by Nambiar, Y., Kashyap, V., & Patnaude, D., 2014, BAAS 223, 353.04
 
 Presented January 2014 at teh 223rd American Astrnomical Society.
 
