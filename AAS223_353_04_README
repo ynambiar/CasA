@@ -1,0 +1,25 @@
+AAS223_353_04_README
+	This file.
+	Pointers to files supporting Nambiar, Y., Kashyap, V., & Patnaude, D., 2014, BAAS 223, 353.04
+	
+AAS223_353_04_poster.pdf
+	The poster
+
+AAS223_353_04_Table2.csv
+	Complete Table 2, sorted by RA
+
+AAS223_353_04_Table3.csv
+	Complete Table 3, sorted by RA
+
+casa_box.reg
+	The box used to define the spatial analysis region across all ObsIDs
+
+fluximage.cmd
+	Shell script used to run CIAO commands on the downloaded archival data and obtain flat-fielded fluxed images
+
+rd_casa.pro
+pp_casa.pro
+	IDL programs to read in the data and analyze them to extract regions of interest -- both where abnormal hardness ratios are seen in a given observation, and where large variability is seen at a given pixel.
+
+obswise.pl
+	Python version of the analysis program where abnormal hardness ratios are seen in a given observation.
